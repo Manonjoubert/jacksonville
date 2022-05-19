@@ -1,0 +1,60 @@
+body{
+	background-color: #E7ECEF;
+	margin: 30px;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {color:#274C77;
+	text-decoration-line:  underline;
+	text-align: center;
+}
+
+h2 {color: #6096BA;
+	text-align: center;
+}
+
+p {color: #8B8C89;
+	font-weight: Bebas+Neue;
+}
+
+a {color: #9BCDF7;
+}
+
+
+.photo-paysage {
+	width: 1000px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.picture-square {
+	width: 30%;
+	height: 400px;
+	object-fit: cover;
+}
+
+.center-content {
+	text-align: center;
+}
+
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.link-aligned{
+	display: flex;
+	justify-content: space-around;
+}
+
+a:hover{
+	color: orange;
+	font-weight: 400;
+}
+
+div {
+	background-color: #FFFFFF;
+	padding: 50px;
+	
+}
